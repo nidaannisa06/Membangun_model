@@ -1,0 +1,4 @@
+https://dagshub.com/nidaannisa06/membangun_model_advanced/mlflow
+Run ID: 88a94dbe6029424da654080bf59a00f2
+Experiment ID: 1
+After running this script, check your DagsHub MLflow UI for the latest run: https://dagshub.com/nidaannisa06/membangun_model_advanced/mlflow
