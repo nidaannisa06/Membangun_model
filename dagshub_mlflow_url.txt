@@ -1,4 +1,12 @@
-https://dagshub.com/nidaannisa06/membangun_model_advanced/mlflow
-Run ID: 88a94dbe6029424da654080bf59a00f2
-Experiment ID: 1
-After running this script, check your DagsHub MLflow UI for the latest run: https://dagshub.com/nidaannisa06/membangun_model_advanced/mlflow
+DagsHub MLflow Tracking URL
+========================================
+Project URL: https://dagshub.com/nidaannisa06/membangun_model_advanced/mlflow
+Run ID: a2e586901bba4fc38b2f980b42982231
+Experiment ID: 2
+Run Name: complete_artifacts_run_20250624_090640
+
+Instructions:
+1. Open the Project URL above
+2. Look for the run with ID: a2e586901bba4fc38b2f980b42982231
+3. Click on the run to view all metrics, parameters, and artifacts
+4. Check the 'Artifacts' tab to see all generated visualizations and reports
