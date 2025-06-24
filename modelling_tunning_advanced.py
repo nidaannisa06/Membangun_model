@@ -735,7 +735,7 @@ def main():
                 f.write(f"{'='*40}\n")
                 f.write(f"Project URL: https://dagshub.com/nidaannisa06/membangun_model_advanced/mlflow\n")
                 f.write(f"Run ID: {run.info.run_id}\n")
-                f.write(f"Experiment ID: {run.info.experiment_id}\n") # Corrected
+                f.write(f"Experiment ID: {run.info.experiment_id}\n")
                 f.write(f"Run Name: {run_name}\n\n")
                 f.write(f"Instructions:\n")
                 f.write(f"1. Open the Project URL above\n")
